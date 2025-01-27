@@ -12,47 +12,75 @@
 - 🤖 Github beginner
 - 🧑‍🏫 Teacher
 <br>
+&emsp;
+
+## 🛠️ My Skills
+-------------------
+### Programming languages:
+&emsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
+![GO](https://img.shields.io/badge/-GO-000?&logo=Go)
+![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
+![HCL](https://img.shields.io/badge/-HCL-000?&logo=HCL)
+![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![APEX](https://img.shields.io/badge/-APEX-000?&logo=Salesforce)
+![LWC](https://img.shields.io/badge/-LWC-000?&logo=Salesforce)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![PineScript](https://img.shields.io/badge/-PineScript-000?&logo=TradingView)
+### Frontend development:
+&emsp;
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI)
+![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-000?&logo=Chakra-UI)
+![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+![Chart.js](https://img.shields.io/badge/-Chart.js-000?&logo=Chart.js)
+### Misc tools:
+&emsp;
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
+![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=Cypress)
+![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+
+### Services & Frameworks: 
+&emsp;
+![Hasura](https://img.shields.io/badge/-Hasura-000?&logo=Hasura)
+![Auth0](https://img.shields.io/badge/-Auth0-000?&logo=Auth0)
+![Serverless](https://img.shields.io/badge/-Serverless-000?&logo=Serverless)
 
 
-### 👨‍💻 Languages and Tools
+### Databases:
+&emsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
 
-<br />
+### SRE & DevOps:
+&emsp;
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
+![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure)
+![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Consul](https://img.shields.io/badge/-Consul-000?&logo=Consul)
+![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
+![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
+![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
+![Chef](https://img.shields.io/badge/-Chef-000?&logo=Chef)
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 
-[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![Electron](https://img.shields.io/badge/-Electron-gray?style=flat&logo=electron&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-
-[![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
-
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/BRdhanani)](https://gitlab.com/BRdhanani) 
-
-[![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
-[![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextjs&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
-[![MobX](https://img.shields.io/badge/-MobX-gray?style=flat&logo=mobx&link=https://github.com/BRdhanani)](https://gitlab.com/BRdhanani) 
-
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brdhanani&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Brijesh Dhanani's Github Stats">
-</p>
-
-<p align='center'>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=brdhanani.brdhanani" alt="visitor badge"/>
-</p>
-
------
-
+&emsp;
 
 ## Servicios 
 <table>
