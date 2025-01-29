@@ -16,15 +16,19 @@ Hi, I'm Vishal Maurya!
 ```
 I-am-vishalmaurya@github
 -------------------------
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University of Mumbai at India
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-💖 In a complicated relationship with Neural Networks
-🎵 Love metal, lofi, jazz and soft music
+🎓 Master’s in Cybersecurity – UNIR University, Spain
+🖥️ Systems Engineer – Santiago de Cali University, Colombia
+📊 Systems Technologist – Santiago de Cali University, Colombia
+🔐 Cybersecurity Analyst | Ethical Hacker
+📚 Full Stack Developer | Self-taught with a backend focus
+🐧 Linux User & SysAdmin | Experience with server management, security, and scripting
+🌱 Learning and improving in: Python, JavaScript, Machine Learning
+🧑‍🏫 Programming and Teleinformatics Systems Instructor
+💖Interested in Data Science and Artificial Intelligence
+🚀 Main languages: Java, PHP, SQL
+🏗️ Exploring Full Stack development with AI
+🤖 GitHub in progress
+🎵 Passionate about technology, football, and video games
 ```
 <hr>
 
@@ -32,12 +36,20 @@ I-am-vishalmaurya@github
 
 ## Sobre mi
 
-- 📲 Master's degree in Cybersecurity 📲
-- 👨🏾‍💻 System Engineer
-- 🌐 Web Developer
-- 🎓 Etical Hacker
-- 🤖 Github beginner
-- 🧑‍🏫 Teacher
+🎓 Master’s in Cybersecurity – UNIR University, Spain
+🖥️ Systems Engineer – Santiago de Cali University, Colombia
+📊 Systems Technologist – Santiago de Cali University, Colombia
+🔐 Cybersecurity Analyst | Ethical Hacker
+📚 Full Stack Developer | Self-taught with a backend focus
+🐧 Linux User & SysAdmin | Experience with server management, security, and scripting
+🌱 Learning and improving in: Python, JavaScript, Machine Learning
+🧑‍🏫 Programming and Teleinformatics Systems Instructor
+💖Interested in Data Science and Artificial Intelligence
+🚀 Main languages: Java, PHP, SQL
+🏗️ Exploring Full Stack development with AI
+🤖 GitHub in progress
+🎵 Passionate about technology, football, and video games
+
 <br>
 &emsp;
 
