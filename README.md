@@ -1,7 +1,7 @@
 <h1 align="center">
-Hi, I'm Vishal Maurya!
+Hi, I'm James Sanchez!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
+ <!--<img src="https://komarev.com/ghpvc/?username=ingjames1992&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="ingjames1992" />-->
  <img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/> <a href="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/"> </a> 
 <br/>
 
@@ -31,27 +31,6 @@ I-am-vishalmaurya@github
 🎵 Passionate about technology, football, and video games
 ```
 <hr>
-
-----
-
-## Sobre mi
-
-🎓 Master’s in Cybersecurity – UNIR University, Spain
-🖥️ Systems Engineer – Santiago de Cali University, Colombia
-📊 Systems Technologist – Santiago de Cali University, Colombia
-🔐 Cybersecurity Analyst | Ethical Hacker
-📚 Full Stack Developer | Self-taught with a backend focus
-🐧 Linux User & SysAdmin | Experience with server management, security, and scripting
-🌱 Learning and improving in: Python, JavaScript, Machine Learning
-🧑‍🏫 Programming and Teleinformatics Systems Instructor
-💖Interested in Data Science and Artificial Intelligence
-🚀 Main languages: Java, PHP, SQL
-🏗️ Exploring Full Stack development with AI
-🤖 GitHub in progress
-🎵 Passionate about technology, football, and video games
-
-<br>
-&emsp;
 
 
 ## Tech Stack
