@@ -12,7 +12,7 @@ Hi, I'm James Sanchez!
 <hr>
 
 ```
-I-am-vishalmaurya@github
+james.ing1992@gmail.com
 -------------------------
 🎓 Master’s in Cybersecurity – UNIR University, Spain
 🖥️ Systems Engineer – Santiago de Cali University, Colombia
