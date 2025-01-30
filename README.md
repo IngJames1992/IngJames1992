@@ -1,12 +1,12 @@
 <h1 align="center">
 Hi, I'm James Sanchez!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-<br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%96%A5%EF%B8%8F+Full+stack+web+developer;%F0%9F%92%96Systems+Engineer+%26+Technologist+;%F0%9F%9A%80+Master%E2%80%99s+in+Cybersecurity;%F0%9F%94%90Cybersecurity+Analyst%7CEthical+Hacker;%F0%9F%90%A7+Linux+User+%26+SysAdmin+" alt="Typing SVG" /></a></p>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%96%A5%EF%B8%8F+Full+stack+web+developer;%F0%9F%92%96Systems+Engineer+%26+Technologist+;%F0%9F%9A%80+Master%E2%80%99s+in+Cybersecurity;%F0%9F%94%90Cybersecurity+Analyst%7CEthical+Hacker;%F0%9F%90%A7+Linux+User+%26+SysAdmin+" alt="Typing SVG" /></a>
+</p>
+<hr>
 
 <img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <hr>
