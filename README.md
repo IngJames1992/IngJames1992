@@ -6,10 +6,8 @@ Hi, I'm James Sanchez!
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%96%A5%EF%B8%8F+Full+stack+web+developer;%F0%9F%92%96Systems+Engineer+%26+Technologist+;%F0%9F%9A%80+Master%E2%80%99s+in+Cybersecurity;%F0%9F%94%90Cybersecurity+Analyst%7CEthical+Hacker;%F0%9F%90%A7+Linux+User+%26+SysAdmin+" alt="Typing SVG" /></a>
 </p>
-<hr>
 
 <img align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmRyMjJkM2Z1ZGhqdmExczRhNG8wbDk3ZHBsNjdvZ3ZzaDU2bjZiZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
-<hr>
 
 ```
 james.ing1992@gmail.com
@@ -24,11 +22,9 @@ james.ing1992@gmail.com
 🧑‍🏫 Programming and Teleinformatics Systems Instructor
 💖Interested in Data Science and Artificial Intelligence
 🚀 Main languages: Java, PHP, SQL
-🏗️ Exploring Full Stack development with AI
 🤖 GitHub in progress
 🎵 Passionate about technology, football, and video games
 ```
-<hr>
 
 <br/>  
 
@@ -172,6 +168,7 @@ james.ing1992@gmail.com
   
 
 <br/>  
+<hr>
 
 
 ## Projects  
