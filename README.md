@@ -8,7 +8,7 @@ Hi, I'm James Sanchez!
 </p>
 <hr>
 
-<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<img align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmRyMjJkM2Z1ZGhqdmExczRhNG8wbDk3ZHBsNjdvZ3ZzaDU2bjZiZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <hr>
 
 ```
