@@ -10,7 +10,7 @@ Hi, I'm James Sanchez!
 <img align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmRyMjJkM2Z1ZGhqdmExczRhNG8wbDk3ZHBsNjdvZ3ZzaDU2bjZiZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 
 ```
-                Gmail james.ing1992@gmail.com
+                              Gmail james.ing1992@gmail.com
 -------------------------
 🎓 Master’s in Cybersecurity – UNIR University, Spain
 🖥️ Systems Engineer – Santiago de Cali University, Colombia
