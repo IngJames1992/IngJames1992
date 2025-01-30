@@ -17,7 +17,7 @@ james.ing1992@gmail.com
 📊 Systems Technologist – Santiago de Cali University, Colombia
 🔐 Cybersecurity Analyst | Ethical Hacker
 📚 Full Stack Developer | Self-taught with a backend focus
-🐧 Linux User & SysAdmin | Experience with server management, security, and scripting
+🐧 Linux User & SysAdmin | Server management, security, and scripting
 🌱 Learning and improving in: Python, JavaScript, Machine Learning
 🧑‍🏫 Programming and Teleinformatics Systems Instructor
 💖Interested in Data Science and Artificial Intelligence
