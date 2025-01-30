@@ -15,7 +15,7 @@ Hi, I'm James Sanchez!
 🎓 Master’s in Cybersecurity – UNIR University, Spain
 🖥️ Systems Engineer – Santiago de Cali University, Colombia
 📊 Systems Technologist – Santiago de Cali University, Colombia
-🔐 Cybersecurity Analyst | Ethical Hacker
+🔐 Cybersecurity Analyst | Ethical Hacker | ISO 27001
 📚 Full Stack Developer | Self-taught with a backend focus
 🐧 Linux User & SysAdmin | Server management, security, and scripting
 🌱 Learning and improving in: Python, JavaScript, Machine Learning
