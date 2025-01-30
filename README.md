@@ -81,7 +81,8 @@ Hi, I'm James Sanchez!
 <a href="https://linkedin.com/in/james-eduardo-sanchez-bejarano" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-<a href = "mailto:ingjames1992@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@IngJames1992"/>
+<a href="mailto:ingjames1992@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@IngJames1992"/>
 </a>
 
 </div>  
