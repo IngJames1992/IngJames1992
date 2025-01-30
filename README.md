@@ -23,7 +23,7 @@ Hi, I'm James Sanchez!
 💖Interested in Data Science and Artificial Intelligence
 🚀 Main languages: Java, PHP, SQL
 🤖 GitHub in progress
-🎵 Passionate about technology, football, and video games
+🎵 Passionate about technology, football and videogames
 ```
 
 <br/>  
